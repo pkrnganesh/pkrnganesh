@@ -1,21 +1,111 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm P K R N Ganesh</h1>
-<h3 align="center">A passionate full stack engineer from India</h3>
-<img align="right" alt = "coding" width="400" src = "https://i.ytimg.com/vi/jES1ypXRABk/maxresdefault.jpg">
-- 🔭 I’m currently working at **Frejun**
+# Ram Ganesh Pothamsetti
 
-- 🌱 I’m currently learning **React.js**
+**Generative AI × Full-Stack Engineer · SDE @ Forsys Inc.**
 
-- 💬 Ask me about **Webdev**
+📍 Hyderabad, Telangana &nbsp;|&nbsp; 📞 +91 93928-42898 &nbsp;|&nbsp; 📧 [pothamsettikodanda@gmail.com](mailto:pothamsettikodanda@gmail.com)
+&nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kodanda-rama-naga-ganesh-pothamsetti-808287290) &nbsp;|&nbsp; [GitHub](https://github.com/ramganesh)
 
-- 📫 How to reach me **pothamsettikodanda@gmail.com**
+---
 
-- ⚡ Fun fact **I love to exercise**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/kodanda-rama-naga-ganesh-pothamsetti-808287290" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kodanda-rama-naga-ganesh-pothamsetti-808287290" height="30" width="40" /></a>
-</p>
+Generative AI–focused Full-Stack Engineer with 2+ years of experience building production-grade REST APIs, CRM integrations, and AI-first internal platforms. Specialized in GitHub Copilot Enterprise, Amazon Q Developer, Cursor AI, LangChain, RAG workflows, and agentic orchestration.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- 🔭 Currently building at **Forsys Inc.** — designing NLP-driven integration engines that convert user prompts into complete backend flows
+- 🤖 Specializing in **LangChain, RAG Pipelines, Prompt Engineering, and Agentic Orchestration**
+- 💬 Ask me about **GenAI tooling, full-stack architecture, CRM integrations, WebDev**
+- ⚡ Fun fact: I love to exercise — and I founded my college's Software Development Club!
+
+---
+
+## 💼 Experience
+
+**Full-Stack & AI Engineer** — Forsys Inc., FloData Products Team &nbsp;`Jul 2025 – Present`
+- Architected and implemented the entire backend from scratch using NestJS, React, Redux, and MongoDB
+- Built a natural-language–driven integration engine that converts user prompts into complete integration flows and backend logic
+- Engineered an AI-powered orchestration layer using LangChain for multi-platform data automation
+- Revamped FloData v2.0 into an AI-first architecture platform with agentic workflows and prompt-based blueprint generation
+
+**Full-Stack & Integration Engineer (Intern)** — FreJun Inc. &nbsp;`Feb 2024 – May 2025`
+- Developed scalable REST APIs using Django & DRF for 10K+ daily active users, reducing response times by 30%
+- Integrated CRM platforms: Microsoft Dynamics 365, Zoho, Freshworks, and Deskera
+- Led webhook infrastructure for real-time and async updates; resolved a task queue race condition, improving sequencing accuracy by 95%
+- Achieved 95% test coverage with PyTest integrated into CI/CD pipelines; accelerated sprint delivery by 25%
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+`Python` `JavaScript` `TypeScript` `Java` `C` `PHP` `HTML` `CSS` `Motoko`
+
+**Frontend**
+`React` `Next.js` `Redux` `React Native` `Bootstrap`
+
+**Backend**
+`Node.js` `NestJS` `Express.js` `Django REST Framework` `FastAPI`
+
+**AI / GenAI**
+`LangChain` `OpenAI GPT-4o` `GitHub Copilot Enterprise` `Amazon Q Developer` `Cursor AI IDE` `Model Context Protocol (MCP)` `RAG Pipelines` `Prompt Engineering` `Agentic Orchestration` `OpenCV` `MediaPipe`
+
+**Databases**
+`MongoDB` `PostgreSQL` `MySQL` `Firebase`
+
+**DevOps & Tools**
+`Docker` `Git` `GitHub Actions` `Postman` `Linux` `Bitbucket` `Cypress`
+
+**Blockchain**
+`Internet Computer Protocol (ICP)` `DFX` `Candid UI`
+
+---
+
+## 🚀 Featured Projects
+
+**Bunk Safe**
+`React.js` · `Node.js` · `Express.js` · `Firebase` · `GPT-4o`
+
+Full-stack productivity platform for students — attendance tracking, CGPA calculator, anonymous notes, and an AI-powered Attendance Advisor using GPT-4o for personalized schedule suggestions based on class patterns.
+
+---
+
+**Smart Diary App with Google Drive Sync** &nbsp;`Mar – Apr 2025`
+`ReactJS` · `Node.js` · `Google OAuth 2.0` · `Google Drive API`
+
+Web-based diary with Google Sign-In that auto-saves entries to the user's Google Drive by date. Secure OAuth 2.0 flow with real-time React frontend and dynamic file handling in Node.js backend.
+
+---
+
+**Red Light Green Light** &nbsp;`Feb 2025`
+`Python` · `OpenCV` · `MediaPipe`
+
+Squid Game-inspired computer vision project — real-time pose detection controls gameplay, integrated with IoT-based movement sensors for physical hardware interaction.
+
+---
+
+## 🏆 Achievements
+
+- **Academic Topper Award** — Top performer in B.Tech Computer Science & Design (Mar 2025)
+- **Best Idea Pitching Award** — Inter-departmental pitch competition (Feb 2025)
+- **Runner-up, Prajwalan 2024** — National-level web development hackathon (Feb 2024)
+- **Lead Organizer, Sigma2K25 Tech Fest** — 50,000+ in profit via sponsorships (Feb 2025)
+- **Core Team Member, Google Developer Group (GDG)** — Technical events & community building (Sep 2024)
+- **Founder, Software Development Club** — Peer-driven mentorship & real-world projects (Jul 2023)
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Score |
+|--------|-------------|-------|
+| B.Tech, Computer Science & Design | SRKR Engineering College, Bhimavaram | 8.95 / 10 CGPA |
+| Intermediate (MPC) | Sasi Junior College, Tanuku | 97.6% |
+| SSC (10th Grade) | Sasi English Medium School, Tanuku | 10 / 10 GPA |
+
+---
+
+## 📜 Certifications
+
+- **The Complete 2024 Web Development Bootcamp** — Udemy, Dr. Angela Yu · HTML, CSS, JS, Node.js, React, PostgreSQL, Web3
+- **What Is Generative AI?** — LinkedIn (Jun 2024)
+- **Introduction to Artificial Intelligence** — LinkedIn (Jun 2024)
+- **Project Management Foundations** — LinkedIn (Jun 2024)
