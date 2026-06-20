@@ -3,7 +3,7 @@
 **Generative AI × Full-Stack Engineer · SDE @ Forsys Inc.**
 
 📍 Hyderabad, Telangana &nbsp;|&nbsp; 📞 +91 93928-42898 &nbsp;|&nbsp; 📧 [pothamsettikodanda@gmail.com](mailto:pothamsettikodanda@gmail.com)
-&nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kodanda-rama-naga-ganesh-pothamsetti-808287290) &nbsp;|&nbsp; [GitHub](https://github.com/ramganesh)
+&nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/kodanda-rama-naga-ganesh-pothamsetti-808287290) &nbsp;|&nbsp; [GitHub](https://github.com/pkrnganesh)
 
 ---
 
